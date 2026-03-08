@@ -93,7 +93,7 @@ Make sure your hand is placed inside the Region of Interest (ROI) shown on the s
 
 # Demo 
 
-![](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+![](demo/dm2.png)
 
 # Performance Considerations
 
