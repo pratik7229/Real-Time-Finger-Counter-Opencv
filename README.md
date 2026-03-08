@@ -1,4 +1,4 @@
-# Hand Gesture Finger Counter (Computer Vision using OpenCV)
+# Real Time Finger Counter (Computer Vision using OpenCV)
 
 Real-time hand gesture finger counting system built using classical computer vision techniques. The system detects a hand inside a region of interest, segments it from the background, and counts the number of raised fingers using contour analysis and convex hull geometry.
 
